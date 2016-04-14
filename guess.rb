@@ -1,3 +1,4 @@
+# Here are the answers to the random number game
 random_number = rand(1..10)
 
 puts "Guess the number I'm thinking of: "
