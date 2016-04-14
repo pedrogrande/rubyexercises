@@ -9,3 +9,5 @@ if random_number == guess
 else
   puts "You guessed wrong. The number was #{random_number}"
 end
+
+# this is a new line of code!
