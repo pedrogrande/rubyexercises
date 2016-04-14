@@ -10,4 +10,5 @@ else
   puts "You guessed wrong. The number was #{random_number}"
 end
 
+# this is a change i want to see in my Github repo
 # this is a new line of code!
